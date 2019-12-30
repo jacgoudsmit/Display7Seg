@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map Display7Seg
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Display7Seg	KEYWORD1	Display7Seg
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+showDigit	KEYWORD2
+show	KEYWORD2
+setBlank	KEYWORD2
+isBlank	KEYWORD2
+setSegments	KEYWORD2
+setNumber	KEYWORD2
+setValue	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
